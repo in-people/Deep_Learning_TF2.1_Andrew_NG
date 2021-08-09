@@ -4,4 +4,6 @@
 
 共包括四门课程：
 
+Course5 : Sequence Model
+
 命名格式如下：C2W2A1  ： 课程2的第二周的第一个作业。
