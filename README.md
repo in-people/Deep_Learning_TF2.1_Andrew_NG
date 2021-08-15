@@ -67,3 +67,9 @@ C4W4A1: Face Recognition
 
 C4W4A2: Art Generation with Neural Style Transfer
 
+
+### Course 5 Sequence Models
+#### Recurrent Neural Networks
+#### Natural Language Processing & Word Embeddings
+#### Sequence Models & Attention Mechanism
+#### Transformer Network
