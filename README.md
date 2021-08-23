@@ -53,6 +53,10 @@ C4W2A1: Residual Networks
 
 C4W2A2: Transfer Learning with MobileNet
 
+tips: 羊驼图片dataset请从以下链接下载。
+链接：https://pan.baidu.com/s/1CIVvPIPJD10bAEht-mtORA 
+提取码：9999
+
 <br>
 
 
